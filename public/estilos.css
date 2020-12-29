@@ -1,0 +1,33 @@
+h1 {
+  color: aliceblue;
+  text-align: center;
+  margin-top: 5rem;
+  font-family: "Oswald", sans-serif;
+}
+
+body {
+  background-image: url("https://crazyralphscarstereo.com/wp-content/uploads/2016/08/BACKGROUND.jpg");
+}
+h3 {
+  color: aliceblue;
+  font-family: "Oswald", sans-serif;
+  margin-left: 10%;
+}
+p {
+  color: aliceblue;
+  font-family: "Oswald", sans-serif;
+  margin-left: 10%;
+  margin-top: 2rem;
+  margin-right: 10%;
+}
+.contenedor {
+  display: flex;
+  justify-content: space-around;
+}
+
+.child {
+  text-align: center;
+}
+.center {
+  text-align: center;
+}
